@@ -9,7 +9,7 @@ This project is for sensitize everyone so that they drink water regularly becaus
 
 
 <h3>What are the development languages used?</h3>
-For the first version (0.1) I will use JS (Node), C ++, can be Java and some other stuff!
+For the first version (0.1) we will use JS (Node), C ++, can be Java and some other stuff!
 
 <img src="https://cdn.discordapp.com/attachments/580117541549113346/616655141281464332/dessin-de-verre-deau-colorie-par-membre-non-inscrit-le-21-de-mars-verre-deau-png-600_470.png">
 
