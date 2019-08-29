@@ -13,4 +13,6 @@ WIN + R -> CMD ->
 npm i chalk
 ```
 
+Python version
 
+goto the python folder
