@@ -1,8 +1,6 @@
 
 
-// Indev
-// Sorry :/
-
+//Install all Library for this
 #include <iostream>
 #include <thread>
 #include <chrono>
@@ -28,5 +26,5 @@ void Timer::setInterval(auto function, int interval) {
 threehours = 1.08e+7
 Timer t = Timer();
 t.setInterval([&]() {
-    cout << "Please drink water !" << endl;
+    cout << "DrinkWater Time !" << endl;
 }, threehours); 
