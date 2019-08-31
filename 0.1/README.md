@@ -2,7 +2,7 @@
 
 To use Js version (**0.1**) <br/>
 <a href="https://nodejs.org/">Install NodeJs</a>
-
+(Windows 10 Only :'c)
 Launch CMD and :
 ```
 npm i chalk
