@@ -22,7 +22,7 @@ def foo():
     filepath = 'launch.vbs'
     os.startfile(filepath)
     
-WAIT_TIME_SECONDS = 1.08e+7
+WAIT_TIME_SECONDS = 10800
 
 ticker = threading.Event()
 while not ticker.wait(WAIT_TIME_SECONDS):
