@@ -14,3 +14,5 @@ For the first version (0.1) we will use JS (Node), C ++, can be Java and some ot
 <img src="https://cdn.discordapp.com/attachments/580117541549113346/616655141281464332/dessin-de-verre-deau-colorie-par-membre-non-inscrit-le-21-de-mars-verre-deau-png-600_470.png">
 
 To know the different languages used, go <a href="https://github.com/Azkun/Watch-out-for-the-heat-wave/blob/master/used_language.md">here</a>
+
+*NB: This repository was created quite a long time ago and I didn't have the level I currently have, however, I prefer to keep it in archive*
